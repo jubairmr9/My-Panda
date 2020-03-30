@@ -111,6 +111,7 @@ The settings page houses the different fonts and themes. To change the font on t
 - Dustin Blake 
 - Francisco Montanez
 - John Hoff
+- Jubair Hassan
 - Travis Warling
 - Xaitheng Yang
 
